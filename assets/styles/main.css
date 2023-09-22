@@ -220,6 +220,11 @@ nav .container {
   .section4 .img-sec img {
     top: -40px;
   }
+  .section6 .categories-sec .category
+  {
+    width: 350px;
+    margin-right: 10px;
+  }
 }
 @media (max-width: 992px) {
   .section2 {
@@ -257,6 +262,10 @@ nav .container {
   }
   .section5 .cards .card {
     min-width: 40%;
+  }
+  .section6 .categories-sec .category
+  {
+    width: 370px;
   }
 }
 @media (max-width: 768px) {
